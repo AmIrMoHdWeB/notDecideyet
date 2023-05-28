@@ -1,0 +1,112 @@
+.white{
+    color: white;
+}
+
+.black{
+    color: black ;
+}
+
+.textdeconone{
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+}
+
+.justifycenter{
+    justify-content: center;
+}
+
+.spacebetween{
+    justify-content: space-between;
+}
+
+.border{
+    border: 1px solid;
+}
+
+.width25{
+    width: 25%;
+}
+
+.textcenter{
+    text-align: center;
+}
+
+.fixed{
+    position: fixed;
+}
+
+.margintop{
+    margin-top: 1vw;
+}
+
+.fontwhite{
+color: white;
+}
+
+.borderleft{
+    border-right: 1px solid;
+}
+
+.margin85px{
+    margin: 0 85px;
+}
+
+.rettingsdiv{
+    margin-left: -30px;
+}
+
+
+.width50{
+    width: 50%;
+}
+
+
+.transformer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    /*border-radius: 5px 20px 5px;*/ 
+    height: 6vw;
+    display: grid;
+    place-items: center;
+}
+
+.div2{
+    width: 30vw;
+ 
+    border: 1px solid;
+    margin: 1vw;
+}
+
+.div1{
+    width: 64vw;
+    
+    border: 1px solid;
+    margin: 1vw;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.transformer {
+    margin: 2vw;
+    
+
+}
+
+.transformerfirsttopic{
+    margin: 2vw;
+}
+.transformerfirsttopic p{
+    font-size: 22px ;
+    line-height: 1.7;
+}
+
+.masterDiv0{
+
+    border: 1px solid;
+}
+
+.contenthref{
+    font-size: 22px ;
+    line-height: 1.7;
+}

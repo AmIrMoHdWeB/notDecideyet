@@ -1,0 +1,232 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.section0{
+    background-image: url("../wheel.jpg");
+    width: 100%;
+    height: 110vh;
+    background-attachment: fixed;
+    display: table;
+}
+
+
+
+nav{
+    height: 15vh;
+    width: 100%;
+
+    }
+
+.cheaderA:hover{
+    color: rgb(137, 137, 137);
+}
+
+.cheaderA{
+    font-weight: bolder;
+}
+
+    .hederLi{
+        margin: 2vw;
+       
+    }
+
+
+    .websiteName{
+        font-size: 4vw;
+       
+    }
+
+
+.section1{
+height: 110vh;
+}
+
+.headerpera{
+    width: 100%;
+    height: 10vw;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vw;
+    
+}
+.HederH1{
+    margin: 0 292px ;
+    font-size: 33px;
+
+}
+
+
+
+.topCetogryHeader{
+    
+    margin: 3vw;
+}
+
+.firstproductdiv{
+    height: 40vh;
+}
+.secondProduct{
+    height: 40vh;
+}
+
+.contproduct{
+    height: 40vh;
+}
+
+
+
+.buttonFORHederb{
+    height: 3vw;
+    width: 12vw;
+    background-color: black;
+    color: white;
+    font-size: 21px;
+    border-radius: 5px;
+
+
+}
+
+.buttonFORHederb:hover{
+    background-color: transparent;
+    color:  black;
+  
+    
+}
+
+
+/*Section1*/
+
+.try{
+    background-color: white;
+    
+    width: 100%;
+    display: table;
+    margin-top: 2vw;
+    
+    
+}
+
+.hedercont{
+    margin: 5vw;
+}
+
+.whatWeOffeCont{
+    margin-top: 5vw;
+    font-size: 6vw;
+}
+.comfort{
+    width: 400px;
+   
+    margin-left: 1vw;
+    background-color: #f9f9f9;
+}
+.imegComfortdiv{
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.imegComfort{
+    width: 100%;
+
+    
+   
+}
+
+.comfortpera{
+    line-height: 1.4;
+    margin: 1vw;
+}
+.producttypesheder{
+    margin: 2vw;
+}
+
+
+/*SECTION2*/
+
+.section2{
+height: 200vh;
+width: 100%;
+background-attachment: fixed;
+background-color: rgb(106, 105, 105);
+display: table;
+
+}
+
+.margin2vw{
+    margin: 0 2vw;
+}
+
+.section2productheding{
+    font-size: 30px;
+}
+
+.productselldiv{
+    margin-left:  -14px ;
+}
+
+/*section4*/
+
+.aboutusmastercont{
+    width: 50%;
+    background-color: #f9f9f9;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.aboutusSIdebackgorund{
+    background-image:url("../wheelchair-749985_1920.jpg");
+    display: table;
+    background-attachment: fixed;
+    width: 50%;
+    height: 100%;
+}
+
+
+.section5{
+    height: 200vh;
+    width: 100%;
+}
+
+.aboutcont{
+    margin-left: 30vh;
+    margin-right: 7vw;
+    line-height: 1.6;
+    font-size: 55px;
+    
+}
+
+.aboutusperagraphdiv{
+    margin-left: 30vh;
+    margin-right: 7vw;
+    line-height: 1.9;
+    margin-top: 5vw;
+    height: 100%;
+}
+
+
+.section4masterdiv{
+    height: 55vw;
+
+}
+
+.comfort{
+    transition: transform 0.5s ease-in-out;
+}
+
+.comfort:hover{
+    transform: scale(0.9);
+}
+
+
